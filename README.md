@@ -2,7 +2,7 @@
 
 A personal operating system that turns raw voice dumps and notes into AI-processed, prioritized action items with full life context.
 
-**You're the President of your own life. This is your Claudia.**
+**You're the President of your own life. This is your Claudia (CJ's full name in the show).**
 
 ---
 
