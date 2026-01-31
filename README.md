@@ -157,7 +157,7 @@ Two pages, minimal clicking:
 
 ## Philosophy
 
-> "This isn't a todo app. It's not about checking boxes. It's about having someone who knows your whole situation walk into your office and tell you what actually matters today."
+> "I usually hate TODO apps because they lack a reflective, journaling, whiteboarding social aspect. It's not about checking boxes. It's about discussing the current situation with someone who knows your whole context and objectively be told what actually matters today."
 
 Read more in [docs/PHILOSOPHY.md](docs/PHILOSOPHY.md)
 
