@@ -1,0 +1,13 @@
+This is an example entry. Delete this and replace with your own.
+
+Just write naturally here. Stream of consciousness is fine.
+
+The AI will figure out what's actionable, what's health-related,
+who you mentioned, what needs to go on your list, etc.
+
+Example:
+"Had a rough morning, stomach acting up again. Probably stress from
+the work stuff. Need to call the insurance company about the surgery
+but I keep putting it off. Talked to Sarah yesterday and she mentioned
+a PM role opening at her company. Should follow up on that. Also my
+mom wants me to come visit next weekend."
