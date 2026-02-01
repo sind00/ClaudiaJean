@@ -16,7 +16,7 @@ A personal operating system that turns raw voice dumps and notes into AI-process
 
 ## The Premise
 
-In *The West Wing*, CJ Cregg was the one who synthesized complexity into clarity. She took everything happening in the administration and communicated it - directly, intelligently, with no BS. She didn't just relay information; she understood the full picture and delivered what mattered.
+CJ understood the full picture and delivered what mattered.
 
 Most productivity systems treat you like a task-completion machine. This one treats you like what you are: someone running a complex operation (your life) who needs someone with institutional knowledge to cut through the noise and tell you what actually matters.
 
