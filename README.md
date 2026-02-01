@@ -3,7 +3,7 @@
 <p align="center">
     <picture>
         <source media="(prefers-color-scheme: light)" srcset="https://i.pinimg.com/736x/0d/b4/6b/0db46b98d49abc6629d5140ee6638d01.jpg">
-        <img src="https://i.pinimg.com/736x/0d/b4/6b/0db46b98d49abc6629d5140ee6638d01.jpg" alt="CJ" width="500">
+        <img src="https://i.pinimg.com/736x/0d/b4/6b/0db46b98d49abc6629d5140ee6638d01.jpg" alt="CJ" width="300">
     </picture>
 </p>
 
