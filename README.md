@@ -10,7 +10,7 @@
 
 A personal operating system that turns raw voice dumps and notes into AI-processed, prioritized action items with full life context.
 
-**This is your Claudia Jean (CJ's full name in the show).**
+**Your very own CJ iykyk.**
 
 ---
 
