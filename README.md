@@ -1,5 +1,13 @@
 # Claudia Jean "CJ" Creggs (from West Wing)
 
+<p align="center">
+    <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://i.pinimg.com/736x/0d/b4/6b/0db46b98d49abc6629d5140ee6638d01.jpg">
+        <img src="https://i.pinimg.com/736x/0d/b4/6b/0db46b98d49abc6629d5140ee6638d01.jpg" alt="CJ" width="500">
+    </picture>
+</p>
+
+
 A personal operating system that turns raw voice dumps and notes into AI-processed, prioritized action items with full life context.
 
 **This is your Claudia Jean (CJ's full name in the show).**
