@@ -1,4 +1,4 @@
-# The West Wing
+# Claudia Jean "CJ" Creggs (from West Wing)
 
 A personal operating system that turns raw voice dumps and notes into AI-processed, prioritized action items with full life context.
 
